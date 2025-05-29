@@ -6,6 +6,7 @@ A passionate Data Scientist with expertise in Python, Machine Learning, and Data
 - Data Visualization: Matplotlib, Seaborn, Plotly
 - SQL, Tableau, Power BI
 
+## 📈 Portfolio Projects
 
 
 ## 📫 Contact
